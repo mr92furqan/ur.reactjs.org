@@ -1,6 +1,6 @@
 ---
 id: getting-started
-title: Getting Started
+title: شروع کریں
 permalink: docs/getting-started.html
 next: add-react-to-a-website.html
 redirect_from:
@@ -18,7 +18,7 @@ redirect_from:
   - "docs/environments.html"
 ---
 
-This page is an overview of the React documentation and related resources.
+یہ صفحہ ری ایکٹ کے دستاویزات اور متعلقہ وسائل کا جائزہ ہے
 
 **React** is a JavaScript library for building user interfaces. Learn what React is all about on [our homepage](/) or [in the tutorial](/tutorial/tutorial.html).
 
